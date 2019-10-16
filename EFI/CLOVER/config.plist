@@ -777,6 +777,8 @@
 		<string>1920x1080</string>
 		<key>ShowOptimus</key>
 		<false/>
+		<key>Theme</key>
+		<string>newyear</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
