@@ -287,9 +287,7 @@
 		<key>DisableCloverHotkeys</key>
 		<false/>
 		<key>Legacy</key>
-		<string>LegacyBiosDefault</string>
-		<key>LegacyBiosDefaultEntry</key>
-		<integer>0</integer>
+		<string>PBR</string>
 		<key>NeverDoRecovery</key>
 		<false/>
 		<key>NeverHibernate</key>
@@ -750,35 +748,30 @@
 			<key>Speed</key>
 			<integer>2</integer>
 		</dict>
-		<key>#Scan</key>
+		<key>Hide</key>
+		<array>
+			<string>Preboot</string>
+			<string>Recovery</string>
+		</array>
+		<key>Language</key>
+		<string>zh_CN:0</string>
+		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
 			<false/>
+			<key>Linux</key>
+			<true/>
 			<key>Tool</key>
 			<true/>
 		</dict>
-		<key>#TextOnly</key>
-		<false/>
-		<key>Hide</key>
-		<array>
-			<string>Preboot</string>
-			<string>Recovery</string>
-			<string>Legacy HD1</string>
-			<string>Legacy HD2</string>
-			<string>Legacy HD3</string>
-		</array>
-		<key>Language</key>
-		<string>zh_CN:0</string>
-		<key>Scan</key>
-		<true/>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
-		<string>newyear</string>
+		<string>BGM</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
