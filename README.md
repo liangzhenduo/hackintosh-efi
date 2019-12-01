@@ -12,7 +12,7 @@
 
 ## 更新
 + macOS Catalina 10.15.1
-+ Clover v2.5k-5096
++ Clover v2.5k-5099
 + Lilu v1.3.9
 + WhateverGreen v1.3.4
 + AppleALC v1.4.3
