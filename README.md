@@ -11,8 +11,10 @@
 + 电源：海韵FOCUS+ 550FX 550W
 
 ## 更新
-+ macOS Catalina 10.15.1
-+ Clover v2.5k-5099
-+ Lilu v1.3.9
-+ WhateverGreen v1.3.4
-+ AppleALC v1.4.3
++ macOS Catalina 10.15.2
++ Clover v2.5k-5100
++ Lilu v1.4.0
++ WhateverGreen v1.3.5
++ AppleALC v1.4.4
++ FakeSMC 2018-0915
++ IntelMausiEthernet v2-2018-1031
