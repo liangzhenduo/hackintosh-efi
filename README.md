@@ -18,3 +18,6 @@
 + [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.4.9
 + FakeSMC 2018-0915
 + IntelMausiEthernet v2-2018-1031
++ [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases) v1.1
+
+![硬件解码](./img/VideoProc.png)
