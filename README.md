@@ -11,12 +11,12 @@
 + 电源：海韵FOCUS+ 550FX 550W
 
 ## 更新
-+ macOS Catalina 10.15.4
++ macOS Catalina 10.15.5
 + [Clover](https://github.com/CloverHackyColor/CloverBootloader/releases) v2.5k-r5115
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.4
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.3.9
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.4.9
-+ FakeSMC 2018-0915
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.5
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.0
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.0
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.4
 + IntelMausiEthernet v2-2018-1031
 + [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases) v1.1
 
