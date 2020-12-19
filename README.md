@@ -13,10 +13,10 @@
 ## 更新
 + macOS Catalina 10.15.7
 + [Clover](https://github.com/CloverHackyColor/CloverBootloader/releases) v5.0 r5120
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.8
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.3
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.3
-+ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.7
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.5
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.5
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
 + IntelMausiEthernet v2-2018-1031
 + [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases) v1.1
 
