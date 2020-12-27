@@ -1,4 +1,5 @@
-# hackintosh-efi
+# Hackintosh EFI with OpenCore
+**Clover EFI 参考[clover branch](https://github.com/liangzhenduo0608/hackintosh-efi/tree/clover)**
 
 ## 配置
 + 主板：技嘉B360M AORUS PRO
@@ -12,12 +13,13 @@
 
 ## 更新
 + macOS Catalina 10.15.7
-+ [Clover](https://github.com/CloverHackyColor/CloverBootloader/releases) v5.0 r5120
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.4
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
 + [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.5
 + [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.5
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
-+ IntelMausiEthernet v2-2018-1031
++ [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.4
++ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.0.4
 + [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases) v1.1
 
 ![硬件解码](./img/VideoProc.png)
