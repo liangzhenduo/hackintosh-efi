@@ -12,7 +12,8 @@
 + 电源：海韵FOCUS+ 550FX 550W
 
 ## 更新
-+ macOS Catalina 10.15.7
+![系统版本](./img/Overview.png)
++ macOS Big Sur 11.1
 + [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.4
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
 + [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.5
@@ -20,6 +21,7 @@
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.4
 + [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.0.4
-+ [MacProMemoryNotificationDisabler](https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases) v1.1
 
+![节能五项](./img/EnergySaver.png)
+![内存插槽](./img/Memory.png)
 ![硬件解码](./img/VideoProc.png)
