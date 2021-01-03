@@ -1,4 +1,5 @@
-# hackintosh-efi
+# Hackintosh EFI with Clover
+**OpenCore EFI 参考 [opencore branch](https://github.com/liangzhenduo0608/hackintosh-efi/tree/opencore)**
 
 ## 配置
 + 主板：技嘉B360M AORUS PRO
