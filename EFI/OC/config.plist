@@ -288,24 +288,6 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>MacProMemoryNotificationDisabler.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/MacProMemoryNotificationDisabler</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -612,6 +594,8 @@
 			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
+			<key>PickerVariant</key>
+			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -632,7 +616,7 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<integer>2147483650</integer>
+			<integer>2147483714</integer>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
@@ -759,7 +743,7 @@
 				<key>DefaultBackgroundColor</key>
 				<data>AAAAAA==</data>
 				<key>UIScale</key>
-				<data>Ag==</data>
+				<data>AQ==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -771,13 +755,13 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v</string>
+				<string></string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>cnUtUlU6MjUy</data>
+				<data></data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -836,7 +820,7 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<false/>
+		<true/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
@@ -857,6 +841,242 @@
 			<string>F5KZ8KZ2P7QM</string>
 			<key>SystemUUID</key>
 			<string>8D677ADD-9FAA-456F-97B4-7A9315BBF25E</string>
+		</dict>
+		<key>Memory</key>
+		<dict>
+			<key>DataWidth</key>
+			<integer>64</integer>
+			<key>Devices</key>
+			<array>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 8 (Channel A / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E901</string>
+					<key>Size</key>
+					<integer>2048</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 7 (Channel A / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E902</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 10 (Channel B / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E903</string>
+					<key>Size</key>
+					<integer>2048</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 9 (Channel B / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E904</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 12 (Channel C / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E905</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 11 (Channel C / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E906</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 5 (Channel D / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E908</string>
+					<key>Size</key>
+					<integer>2048</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 6 (Channel D / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E909</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 3 (Channel E / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E90A</string>
+					<key>Size</key>
+					<integer>2048</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 4 (Channel E / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E90B</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 1 (Channel F / DIMM 1)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E90C</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>Slot 2 (Channel F / DIMM 2)</string>
+					<key>Manufacturer</key>
+					<string>TEAMGROUP</string>
+					<key>PartNumber</key>
+					<string>TEAMGROUP-UD4-3000</string>
+					<key>SerialNumber</key>
+					<string>0104E90D</string>
+					<key>Size</key>
+					<integer>1024</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+			</array>
+			<key>ErrorCorrection</key>
+			<integer>5</integer>
+			<key>FormFactor</key>
+			<integer>9</integer>
+			<key>MaxCapacity</key>
+			<integer>4831838208</integer>
+			<key>TotalWidth</key>
+			<integer>72</integer>
+			<key>Type</key>
+			<integer>26</integer>
+			<key>TypeDetail</key>
+			<integer>128</integer>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -898,6 +1118,8 @@
 			<integer>20</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
+			<key>SetupDelay</key>
+			<integer>0</integer>
 			<key>VolumeAmplifier</key>
 			<integer>0</integer>
 		</dict>
@@ -1000,8 +1222,6 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DeduplicateBootOrder</key>
-			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
