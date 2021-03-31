@@ -13,12 +13,12 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Big Sur 11.1
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.5
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.6
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.6
-+ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
++ macOS Big Sur 11.2.1
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.6
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.1
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.7
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.7
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.2.0
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.5
 + [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.0.5
 
