@@ -13,7 +13,7 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Big Sur 11.5.1
++ macOS Monterey 12.0.1
 + [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.7.5
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.7
