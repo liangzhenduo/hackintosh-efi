@@ -13,12 +13,12 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Monterey 12.5
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.8.0
++ macOS Monterey 12.6
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.8.5
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.1
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.0
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.7.3
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.2
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.1
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.7.5
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.0
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.7
 + [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.0
