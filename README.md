@@ -13,7 +13,7 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Monterey 12.6
++ macOS Ventura 13.2.1
 + [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.8.8
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.3
