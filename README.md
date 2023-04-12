@@ -18,7 +18,7 @@
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.4
 + [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.4
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.0
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.1
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.1
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.7
 + [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.0
