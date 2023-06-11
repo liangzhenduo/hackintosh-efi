@@ -13,12 +13,12 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Ventura 13.3.1
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.9.0
++ macOS Ventura 13.4
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.9.2
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.4
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.5
 + [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.4
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.1
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.2
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.1
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.7
 + [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.0
