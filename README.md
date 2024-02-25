@@ -13,7 +13,7 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Ventura 13.4
++ macOS Ventura 13.5.1
 + [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.9.8
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 + [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.7
