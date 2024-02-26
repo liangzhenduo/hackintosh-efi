@@ -13,15 +13,15 @@
 
 ## 更新
 ![系统版本](./img/Overview.png)
-+ macOS Ventura 13.4
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.9.2
++ macOS Ventura 13.5.1
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.9.8
 + [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.5
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.4
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.2
-+ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.1
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.6.7
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.6.6
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.8.9
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.2
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.7
-+ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.0
++ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.1
 
 ![节能五项](./img/EnergySaver.png)
 ![内存插槽](./img/Memory.png)
