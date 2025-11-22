@@ -20,11 +20,10 @@
 + [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.9.5
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.3.7
 + [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) v1.0.8
-+ [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) v1.1.3
++ [RestrictEvents](https://github.com/acidanthera/RestrictEvents/releases) v1.1.6
 + [AMFIPass](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Acidanthera) v1.4.1
 + [IOSkywalkFamily](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi) v1.2.0
 + [IO80211FamilyLegacy](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi) v1.0.0
 
 ![节能五项](./img/EnergySaver.png)
-![内存插槽](./img/Memory.png)
 ![硬件解码](./img/VideoProc.png)
