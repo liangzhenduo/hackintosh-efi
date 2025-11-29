@@ -449,7 +449,7 @@
                 <key>AppleCpuPmCfgLock</key>
                 <false/>
                 <key>AppleXcpmCfgLock</key>
-                <true/>
+                <false/>
                 <key>AppleXcpmExtraMsrs</key>
                 <false/>
                 <key>AppleXcpmForceBoost</key>
@@ -671,7 +671,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string></string>
+                    <string>revpatch=sbvmm</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -725,7 +725,7 @@
                 </array>
             </dict>
             <key>WriteFlash</key>
-            <false/>
+            <true/>
         </dict>
         <key>PlatformInfo</key>
         <dict>
